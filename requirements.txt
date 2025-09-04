@@ -13,12 +13,15 @@ torch-geometric>=2.1.0
 
 # --- utils ---
 pyaml>=25.5.0
+seaborn>=0.13.2
 
 # --- Data Handling & Scientific Computing ---
 # 데이터프레임 처리 및 CSV 파일 입출력
 pandas>=1.4.0
+
 # 수치 연산
 numpy>=1.21.0,<2.0
+matplotlib>=3.10.0
 
 # 데이터 전처리, 모델 평가 등
 scikit-learn>=1.0.0
