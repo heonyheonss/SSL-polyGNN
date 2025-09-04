@@ -1,0 +1,40 @@
+# --- Core ML/DL Frameworks ---
+# PyTorch와 CUDA 버전에 맞는 torch_geometric, torch_scatter 등을 설치해야 합니다.
+# 먼저 PyTorch를 설치한 후, 공식 문서에 따라 torch-geometric을 설치하는 것을 권장합니다.
+# 예시: pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1 --extra-index-url https://download.pytorch.org/whl/cu113
+# 아래 버전은 일반적인 예시이며, 사용하시는 환경(CUDA 버전 등)에 맞게 수정이 필요할 수 있습니다.
+torch>=1.12.0
+torchvision
+torchaudio
+
+# --- Graph Neural Networks ---
+# PyTorch Geometric: GNN 모델 구현을 위한 필수 라이브러리
+torch-geometric>=2.1.0
+
+# --- Data Handling & Scientific Computing ---
+# 데이터프레임 처리 및 CSV 파일 입출력
+pandas>=1.4.0
+# 수치 연산
+numpy>=1.21.0
+# 데이터 전처리, 모델 평가 등
+scikit-learn>=1.0.0
+
+# --- Cheminformatics ---
+# 분자 구조(SMILES) 처리 및 그래프 변환
+rdkit-pypi>=2022.03.1
+
+# --- Utilities ---
+# 학습 과정 시각화를 위한 진행률 표시 막대
+tqdm>=4.62.0
+# Kaggle 데이터셋 다운로드 및 제출용 API
+kaggle
+
+# --- Experiment Tracking & Visualization (Optional) ---
+# 실험 결과 로깅 및 시각화 (선택 사항)
+# tensorboard
+# wandb
+
+# --- Jupyter Environment (Optional) ---
+# 데이터 탐색 및 빠른 실험을 위한 환경 (선택 사항)
+# jupyter
+# notebook
