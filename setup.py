@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 # requirements.txt 파일의 내용을 읽어와 install_requires에 사용
-with open('requirements.txt') as f:
+with open('requirements.txt', encoding='utf-8') as f:
     required = f.read().splitlines()
     # 주석이나 특정 옵션이 포함된 라인은 제외할 수 있습니다.
     # 여기서는 간단하게 모든 라인을 포함시켰습니다.
