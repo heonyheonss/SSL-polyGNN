@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1522a89f-478c-4d4c-b93f-5baf68f5d34e" name="변경" comment="Create setup.py">
-      <change afterPath="$PROJECT_DIR$/myutility/featuring.py" afterDir="false" />
+    <list default="true" id="1522a89f-478c-4d4c-b93f-5baf68f5d34e" name="변경" comment="Merge remote-tracking branch 'origin/main'">
+      <change afterPath="$PROJECT_DIR$/myutility/dataframe_utility.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myutility/featuring.py" beforeDir="false" afterPath="$PROJECT_DIR$/myutility/featuring.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/00_molecule_representation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/00_molecule_representation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +38,12 @@
     &quot;assignee&quot;: &quot;heonyheonss&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:heonyheonss/SSL-polyGNN.git",
-    "accountId": "812be038-92ff-4e7b-a597-95fd47409cd3"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:heonyheonss/SSL-polyGNN.git&quot;,
+    &quot;accountId&quot;: &quot;812be038-92ff-4e7b-a597-95fd47409cd3&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -95,7 +95,8 @@
       <option name="presentableId" value="Default" />
       <updated>1756970466860</updated>
       <workItem from="1756970467645" duration="6767000" />
-      <workItem from="1756980491905" duration="7986000" />
+      <workItem from="1756980491905" duration="8050000" />
+      <workItem from="1756989406846" duration="1344000" />
     </task>
     <task id="LOCAL-00001" summary="Create setup.py">
       <option name="closed" value="true" />
@@ -105,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756975588806</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1756988907274</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756988907274</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create setup.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create setup.py" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
 </project>

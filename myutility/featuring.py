@@ -40,8 +40,6 @@ def smiles_to_features(smiles):
         features['AromaticProportion'] = num_aromatic_atoms / num_atoms if num_atoms > 0 else 0
         features['FreeElectrons'] = np.sum(radicals)
         features['HydrogenNumber'] = np.sum(nums_h_atom)
-
         return features
-
     except:
         return None
