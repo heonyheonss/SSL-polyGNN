@@ -1,0 +1,8 @@
+data:
+  train_path: "../dataset/cleaned_polymer_data.csv"
+  properties:
+    - Tg
+    - FFV
+    - Tc
+    - Density
+    - Rg
