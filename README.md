@@ -4,7 +4,7 @@ this repo's purpose is tracking my work flow of the Kaggle competition - NeurIPS
 ### create environment
 - use conda to make virtual environment
 ```bash
-- conda create env -n polygnn python=3.11 -y
+- conda create -n polygnn python=3.11 -y
 ```
 
 ### activate your environment
