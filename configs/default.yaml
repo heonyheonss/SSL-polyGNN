@@ -1,5 +1,5 @@
 data:
-  train_path: "../dataset/cleaned_polymer_data.csv"
+  train_path: "E:/SSL-polyGNN/data/cleaned_polymer_data.csv"
   properties:
     - Tg
     - FFV
