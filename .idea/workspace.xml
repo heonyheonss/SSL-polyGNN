@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f09a01b7-b6a7-495b-9401-5f4ed35dca3d" name="변경" comment="commit from desktop">
-      <change afterPath="$PROJECT_DIR$/WorkFrame/run_step1_initial_importance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorkFrame/run_step2_correlation_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorkFrame/run_step3_final_selection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorkFrame/run_step4_impute_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorkFrame/run_step5_prepare_gnn_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorkFrame/run_step6_train_gnn_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myutility/descriptor_selector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myutility/get_my_descriptor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myutility/gnn_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myutility/imputation_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkFrame/run_step7_create_submission.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/default.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/configs/default.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myutility/descriptor_selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/myutility/descriptor_selection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/01_XGboost_baseline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_XGboost_baseline.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkFrame/run_step5_prepare_gnn_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/WorkFrame/run_step5_prepare_gnn_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/02_GNN_baseline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/02_GNN_baseline.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +59,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SSL-polyGNN\data\submission" />
       <recent name="E:\SSL-polyGNN\notebooks" />
     </key>
   </component>
@@ -112,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757150038485</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit from desktop">
+      <option name="closed" value="true" />
+      <created>1757253603833</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757253603833</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
