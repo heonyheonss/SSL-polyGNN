@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f09a01b7-b6a7-495b-9401-5f4ed35dca3d" name="변경" comment="commit from desktop" />
+    <list default="true" id="f09a01b7-b6a7-495b-9401-5f4ed35dca3d" name="변경" comment="commit from desktop">
+      <change afterPath="$PROJECT_DIR$/WorkFrame/run_step1_initial_importance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkFrame/run_step2_correlation_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkFrame/run_step3_final_selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkFrame/run_step4_impute_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkFrame/run_step5_prepare_gnn_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkFrame/run_step6_train_gnn_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myutility/descriptor_selector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myutility/get_my_descriptor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myutility/gnn_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myutility/imputation_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/default.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/configs/default.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myutility/descriptor_selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/myutility/descriptor_selection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/01_XGboost_baseline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_XGboost_baseline.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/02_GNN_baseline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/02_GNN_baseline.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -88,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757149941059</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit from desktop">
+      <option name="closed" value="true" />
+      <created>1757150038485</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757150038485</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -6,3 +6,6 @@ data:
     - Tc
     - Density
     - Rg
+
+desc:
+  desc_list: "E:/SSL-polyGNN/notebooks/final_descriptor.csv"
