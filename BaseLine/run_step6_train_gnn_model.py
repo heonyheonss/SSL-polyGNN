@@ -1,4 +1,4 @@
-# WorkFrame/run_step6_train_gnn_model.py
+# BaseLine/run_step6_train_gnn_model.py
 import os
 import torch
 import numpy as np

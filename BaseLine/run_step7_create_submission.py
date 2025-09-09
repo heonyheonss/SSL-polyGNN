@@ -1,4 +1,4 @@
-# WorkFrame/run_step7_create_submission.py
+# BaseLine/run_step7_create_submission.py
 import pandas as pd
 import torch
 import os

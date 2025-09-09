@@ -1,5 +1,3 @@
-# descriptor_selector.py
-
 import pandas as pd
 import numpy as np
 from rdkit import Chem
@@ -11,7 +9,6 @@ from sklearn.model_selection import train_test_split
 
 # tqdm의 pandas integration 활성화
 tqdm.pandas()
-
 
 def calculate_descriptors(smiles_series: pd.Series) -> pd.DataFrame:
     """

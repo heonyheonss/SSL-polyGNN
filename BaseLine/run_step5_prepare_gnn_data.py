@@ -1,4 +1,4 @@
-# WorkFrame/run_step5_prepare_gnn_data.py
+# BaseLine/run_step5_prepare_gnn_data.py
 import pandas as pd
 import os
 import torch
