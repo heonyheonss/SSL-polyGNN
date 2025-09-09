@@ -5,23 +5,27 @@
 
 ### create environment
 <h4>use conda to make virtual environment</h4>
+
 ```bash
 - conda create -n polygnn python=3.11 -y
 ```
 
 ### activate your environment
+
 ```bash
 - conda activate polygnn
 ```
 
 ### move to your directory and clone this git
 <h4>at your directory</h4>
+
 ```bash
 - git clone https://github.com/heonyheonss/SSL-polyGNN.git
 ```
 
 ### move to root of your project and install dependencies
 <h4> at your project root directory </h4>
+
 ```bash
 - pip install -e.
 ```
