@@ -1,5 +1,5 @@
 # BaseLine.MD
-<h3> Firstly, I should reveal the truth that this baseline was made by Gemini.<h3C >
+<h4> BaseLine directory is consisted with run_step{n_pupose_of_code}.py files, which was runned in notebooks/01_XGboost_baseline.ipynb or notebooks/02_GNN_baseline.ipynb </h4>
 
 ## About Gemini
 - This baseline is made by Gemini 2.5 Pro
