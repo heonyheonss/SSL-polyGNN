@@ -1,7 +1,7 @@
 # SSL-polyGNN
 <h4>this repo's purpose is tracking my work flow of the Kaggle competition - NeurIPS2025 - polymer property prediction</h4>
 <h4>I use Gemini 2.5Pro in this project, especially to make the BaseLine and related python code (actually, that is all about the project now)</h4>
-- I'm now trying to find out how can I reuse the generated codes to my own architecture.
+- Now, I'm trying to find out how can I reuse the generated codes to my own architecture.
 
 ### create environment
 <h4>use conda to make virtual environment</h4>
