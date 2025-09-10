@@ -12,3 +12,14 @@ Good model should capture important info(nodes attr, struct- topo-)
 cont : to obtain good views of G and selection of graph encoder (models and datasets)
 pred : gen only important label to capture (1) node att (2) graph struct
 
+## Tree of SSL methods
+### Contrasive
+(1) Objective: Jensen-Shannon estimator, InfoNCE/NT-Xent, Other MI estimators
+(2) Views: Identical, Subgraphs, Structure TF, Feature TF, Subgraphs → Structure TF, Structure TF/feature TF/subgraph
+
+### Predictive
+(1) Graph reconstruction: Non-probabilistic graph auto encoder, Variational graph autoencoder, Autoregressive reconstruction
+(2) Property prediction: Statistical, Domain-knowledge, Topological
+(3) Self-training
+(4) Invariance regularization
+
