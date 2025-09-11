@@ -13,7 +13,7 @@ cont : to obtain good views of G and selection of graph encoder (models and data
 pred : gen only important label to capture (1) node att (2) graph struct
 
 ## Tree of SSL methods
-### Contrasive
+### Contrastive
 (1) Objective: Jensen-Shannon estimator, InfoNCE/NT-Xent, Other MI estimators
 (2) Views: Identical, Subgraphs, Structure TF, Feature TF, Subgraphs → Structure TF, Structure TF/feature TF/subgraph
 
